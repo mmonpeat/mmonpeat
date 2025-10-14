@@ -62,7 +62,7 @@
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=mmonpeat&show_icons=true&theme=radical&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmonpeat&layout=compact&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmonpeat&layout=compact&theme=radical&hide_title=true&exclude_repo=Python)
 
 ## 🎯 Focus Professional / Professional Focus
 
