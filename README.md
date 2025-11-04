@@ -3,12 +3,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mariamonpeat@gmail.com)
 ![komarev](https://komarev.com/ghpvc/?username=tu-usuario&color=blue&style=flat)
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer;Systems+Architect;API+Specialist;Cloud+Enthusiast" alt="Títulos profesionales" /> </p><div align="center">
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%25230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Email](https://img.shields.io/badge/Email-Contact-%2523EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Follow-%2523181717?style=for-the-badge&logo=github&logoColor=white)
-</div>
 
 ## Backend Technologies
 
