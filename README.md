@@ -1,25 +1,34 @@
-# Hi, I'm MARIA MONPEAT | Backend Developer
+# Backend Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maria-monpeat-rodr%C3%ADguez-1b1b3a1b0/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mmonpeat@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mariamonpeat@gmail.com)
+![komarev](https://komarev.com/ghpvc/?username=tu-usuario&color=blue&style=flat)
 
-## Tecnologies Backend / Backend Technologies
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer;Systems+Architect;API+Specialist;Cloud+Enthusiast" alt="Títulos profesionales" /> </p><div align="center">
 
-### Backend Principal / Main Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%25230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Email-Contact-%2523EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Follow-%2523181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
+
+## Backend Technologies
+
+### Main Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🗄️ Bases de Dades / Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔧 DevOps & Eines / DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📂 Projectes per Àrees / Projects by Area
+## 📂 Projects by Area
 
 ### 🎯 BACKEND DEVELOPMENT
 **Projectes amb Java, PHP, bases de dades i APIs Node.js**
