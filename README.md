@@ -1,4 +1,12 @@
+![glitter-abaix](https://github.com/user-attachments/assets/c5c2b9e2-6110-4785-8744-f40e77086a29)
+
+# 
+
+
+![glitter-adalt](https://github.com/user-attachments/assets/8ff3b16c-5bc8-4499-94c7-0abd9393686b)
+
 # Backend Developer
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maria-monpeat-rodr%C3%ADguez-1b1b3a1b0/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mariamonpeat@gmail.com)
 ![komarev](https://komarev.com/ghpvc/?username=tu-usuario&color=blue&style=flat)
